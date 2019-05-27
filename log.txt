@@ -1,0 +1,10 @@
+
+        SystemC 2.3.2-Accellera --- Feb  5 2018 16:33:57
+        Copyright (c) 1996-2017 by all Contributors,
+        ALL RIGHTS RESERVED
+
+Warning: (W506) illegal characters: Gaze Monitor substituted by Gaze_Monitor
+In file: /systemc-2.3.2/./src/sysc/kernel/sc_object.cpp:247
+@ 0 s~~~~~~~~~~~~VCD File Created~~~~~~~~~~~~
+
+Info: (I702) default timescale unit used for tracing: 1 ps (Gaze Simulation.vcd)
